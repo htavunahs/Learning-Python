@@ -13,11 +13,11 @@ dict{}
 
 
 int()
-    integer. whole number
+    integer. whole number <br>
 str()
-    string of characters
+    string of characters <br>
 float()
-    number with decimals
+    number with decimals <br>
 
 math.function
 := walrus
@@ -26,6 +26,5 @@ if
 if-else
 if-elif-else
 
-For looping
+For looping <br>
 While looping
-
