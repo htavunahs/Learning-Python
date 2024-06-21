@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../6-Technical-Documentation"
+		},
+		{
+			"path": "../7-Personal_Portfolio"
+		},
+		{
+			"path": "../ccs-the-complete-guide-2020"
+		},
+		{
+			"path": "../3-column-preview-card-component-main"
+		},
+		{
+			"path": "../4-FCC_survey_form"
+		},
+		{
+			"path": "../1-Learn_HTML"
+		},
+		{
+			"path": "../2-FCC_cat_photo_app"
+		},
+		{
+			"path": "../3-FCC_tribute_page"
+		},
+		{
+			"path": "../5-FCC_Product Landing Page"
+		},
+		{
+			"path": "../CSS- The Complete Guide"
+		}
+	]
+}
